@@ -9,6 +9,7 @@
 * Watching TV
 * Math club
 * Playing clash royale
+![3D-Cool-Image](https://user-images.githubusercontent.com/93545929/139723104-67b03291-2d9a-4af4-bc55-7f5ea787895f.jpg)
 ### My name is Hugo Cordova I hav 12 years and I am in 8th grade in Colegio San Ignacio. I live with my parents and have a 9 year old brother. My favorite school subjects are technology, math and science. I skippeded third grade and I play a lot of sports and participate in many clubs. I like coding and robotics and want to be an enginner when I grow up.
 
 
