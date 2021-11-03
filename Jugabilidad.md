@@ -18,4 +18,7 @@
 #### En algunos juegos el personaje controla un personaje principal este es visible en la pantalla otros no tienen personaje principal. Usualmente hay otros personajes como enemigos o amigos o CPU's (BOTS). En mi juego el personaje soy yo tengo que ser estratega y poner mis tropas en ciertos lugares a ciertos tiempos y tengo que escojer cuales tropas van bien juntas para hacer poderosas combinaciones.
 
 ## Objetos
-#### Muchos juegos tienen objetos como estrellas, salud o armas que te ayudan en el juego. Aunnque no todos los objetos son buenos hay unos que te quitan vida o te hacen daño. En mi juego hay gemas, cartas, monedas, torres, hechizos
+#### Muchos juegos tienen objetos como estrellas, salud o armas que te ayudan en el juego. Aunnque no todos los objetos son buenos hay unos que te quitan vida o te hacen daño. En mi juego hay gemas, cartas, monedas, torres y hechizos.
+
+## Objetivos y Reglas
+####
