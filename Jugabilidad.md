@@ -21,4 +21,13 @@
 #### Muchos juegos tienen objetos como estrellas, salud o armas que te ayudan en el juego. Aunnque no todos los objetos son buenos hay unos que te quitan vida o te hacen daño. En mi juego hay gemas, cartas, monedas, torres y hechizos.
 
 ## Objetivos y Reglas
-####
+#### Retar al jugador con alguna meta como derrotar un enemigo. En mi juego es derrotar al enemigo para subir arena.
+
+## Controles
+#### Le dan al jugador control sobre el personaje. En mi juego no hay much nada más tocar y swipe en tu telefono.
+
+## Dificultad
+#### LE da la dificultad a un jugador de alcanzar su meta. En mi juego es dificil ya que estas encontra de verdaderos jugadores.
+
+## Mundo
+#### Te da como el jugador puede visualizar el juegpo y cunto espacio tiene. En mi juego tu lo ves todo desde arriba y no tiene mucho espacio.
