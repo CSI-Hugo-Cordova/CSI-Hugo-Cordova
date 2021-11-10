@@ -1,5 +1,8 @@
 # Elementos de la Jugbilidad: Clash Royale
-
+<img    src="https://www.xyztimes.com/wp-content/uploads/2016/01/clash-royale-supercell.jpg" 
+        title="Clash Royale" 
+        width="50%" 
+        height="500" />
 ## Atmosfera 
 
 ### background
