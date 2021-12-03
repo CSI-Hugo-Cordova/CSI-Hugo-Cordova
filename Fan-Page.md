@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-    <img    src=""
+    <img    src="https://static1.gamerantimages.com/wordpress/wp-content/uploads/2020/04/mr-beast.jpg"
             title="Mr.Beast"
             width="50%"
             height="50%" 
@@ -32,23 +32,23 @@
 <table>
     <tr>
         <th>Name</th>
-        <td>Paul</td>
-    </tr>
-    <tr>
-        <th>Age</th>
-        <td>34</td>
+        <td>Jimmy</td>
     </tr>
     <tr>
         <th>Birthday</th>
-        <td>7th November</td>
+        <td>1998 May 7</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>23</td>
     </tr>
         <tr>
         <th>Nationality</th>
-        <td>Australian</td>
+        <td>American</td>
     </tr>
     <tr>
-        <th>Instagram</th>
-        <td>@thisispestily</td>
+        <th>Job</th>
+        <td>Content Creator</td>
     </tr>
     <tr>
         <th>Twitter</th>
@@ -68,5 +68,5 @@
 <br><br>
 
 <p>
-    <i>Made by: <u>Carlos Jose Cobian</u> on December 2, 2021</i>
+    <i>Made by: <u>Hugo Córdova</u> on December 2, 2021</i>
 </p>
