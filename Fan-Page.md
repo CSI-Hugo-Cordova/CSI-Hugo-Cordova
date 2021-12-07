@@ -44,7 +44,7 @@ In my opinion Mr. Beast is an incredible person able to achive crazy feats. He h
 <br>
 <h2 align="center" >Table of Content</h2>
 
-<table>
+<table align="center">
     <tr>
         <th>Name</th>
         <td>Jimmy</td>
@@ -91,5 +91,5 @@ In my opinion Mr. Beast is an incredible person able to achive crazy feats. He h
 <br><br>
 
 <p>
-    <i>Made by: <u>Hugo Córdova</u> on December 2, 2021</i>
+    <i>Made by: <u>Hugo Córdova</u> on December 7, 2021</i>
 </p>
