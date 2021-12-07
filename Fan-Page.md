@@ -51,16 +51,12 @@
         <td>Content Creator</td>
     </tr>
     <tr>
-        <th>Twitter</th>
-        <td>@pestily</td>
+        <th></th>
+        <td></td>
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@pestily</td>
-    </tr>
-    <tr>
-        <th>Twitch</th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <td><a href=https:www.youtube.com/c/MrBeast6000></a>@Mr.Beast</td>
     </tr>
 </table>
 
