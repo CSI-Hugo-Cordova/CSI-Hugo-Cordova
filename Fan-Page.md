@@ -15,10 +15,12 @@
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
 Mr.Beast is a popular youtuber he is very kind and gives a lot of money to the community he also haves a gaming channel mostly based on minecraft one of my favorite games. Right now he has almost 85 million subscrebers on youtube and on his gaming channel over 20 million. His content is mostly based on challenges, giving money to th community, and being funny. In his channel he works with some of his friends and puts them through challenges to win money or to give money.
 </p>
+<h2 align="center" >Mr.Beast Achivements</h2>
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
 Mr. Beast has made a lot of achivement over the time. His first achivement was becoming a popular youtuber that no recently hit 80 million. Another is making his own fast food restaurant Beast Burgers this was a world wide available restaurant from the moment it started. Another achivement is that he made his own charity and helps a lot of people this way. He also participated in team trees able to plant 1 million trees and is now currently working on team seas.
 </p>
 <br>
+<h2 align="center" >Mr.Beast</h2>
 
 <div align="center">
     <img    src="https://static1.gamerantimages.com/wordpress/wp-content/uploads/2020/04/mr-beast.jpg"
@@ -27,9 +29,20 @@ Mr. Beast has made a lot of achivement over the time. His first achivement was b
             height="50%" 
             />
 </div>
-
 <br>
-
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+In my opinion Mr. Beast is an incredible person able to achive crazy feats. He has helped out the community with his charity, acts of kindness and team trees and seas. He also makes great content and me and im sure a lot of people enjoy his videos. I think the world could use more people like him because he is very kind and makes great content and one of my favorite youtubers. 
+</p>
+<h2 align="center" >Team Trees</h2>
+<div align="center">
+    <img    src="https://www.theloadout.com/wp-content/uploads/2019/10/mr-beast-team-trees.jpg"
+            title="Mr.Beast"
+            width="50%"
+            height="50%" 
+            />
+</div>
+<br>
+<h2 align="center" >Table of Content</h2>
 
 <table>
     <tr>
