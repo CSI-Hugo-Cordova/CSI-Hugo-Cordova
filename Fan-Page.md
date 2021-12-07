@@ -55,8 +55,8 @@
         <td></td>
     </tr>
     <tr>
-        <th>Youtube</th>
-        <td><a href=https:www.youtube.com/c/MrBeast6000></a>@Mr.Beast</td>
+        <th>Youtube Channel</th>
+        <td><a href="https://www.youtube.com/c/MrBeast6000">@Mr.Beast</a></td>
     </tr>
 </table>
 
