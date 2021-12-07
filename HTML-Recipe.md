@@ -17,7 +17,7 @@
      width="20%"
      height="20%" />
      <li>Unsweeted Chocolate</li>
-      <img src=
+      <img src="https://img-aws.ehowcdn.com/640x425/photos.demandstudios.com/getty/article/235/184/469569013.jpg"
      width="20%"
      height="20%" />
      <li>Butter</li>
