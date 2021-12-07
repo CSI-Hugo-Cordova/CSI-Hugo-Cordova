@@ -13,9 +13,11 @@
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-    Mr.Beast is a popular youtuber he is very kind and gives a lot of money to the community he also haves a gaming channel mostly based on minecraft one of my favorite games. Right now he has almos 70 million subscrebers on youtube and on his gaming channel over 20 million. His content is mostly based on challenges, giving money to th community, and being funny. In his channel he works with some of his friends and puts them through challenges to win money or to give money.
+Mr.Beast is a popular youtuber he is very kind and gives a lot of money to the community he also haves a gaming channel mostly based on minecraft one of my favorite games. Right now he has almost 85 million subscrebers on youtube and on his gaming channel over 20 million. His content is mostly based on challenges, giving money to th community, and being funny. In his channel he works with some of his friends and puts them through challenges to win money or to give money.
 </p>
-
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+Mr. Beast has made a lot of achivement over the time. His first achivement was becoming a popular youtuber that no recently hit 80 million. Another is making his own fast food restaurant Beast Burgers this was a world wide available restaurant from the moment it started. Another achivement is that he made his own charity and helps a lot of people this way. He also participated in team trees able to plant 1 million trees and is now currently working on team seas.
+</p>
 <br>
 
 <div align="center">
@@ -40,7 +42,7 @@
     </tr>
     <tr>
         <th>Age</th>
-        <td>23</td>
+        <td>31</td>
     </tr>
         <tr>
         <th>Nationality</th>
@@ -51,12 +53,24 @@
         <td>Content Creator</td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
+        <th>Channels</th>
+        <td>Mr.Beast, Mr.Beast Gaming, Mr.Beast Philanthrophy, Mr.Beasts Reacts</td>
+    </tr>
+    <tr>
+        <th>Most popular video</th>
+        <td>I spent 50 hours in solitary confindment</td>
+    </tr>
+    <tr>
+        <th>Games Played</th>
+        <td>Minecraft and GTA</td>
     </tr>
     <tr>
         <th>Youtube Channel</th>
         <td><a href="https://www.youtube.com/c/MrBeast6000">@Mr.Beast</a></td>
+    </tr>
+    <tr>
+        <th>Youtube Channel</th>
+        <td><a href="https://www.youtube.com/channel/UCIPPMRA040LQr5QPyJEbmXA">@Mr.Beast Gaming</a></td>
     </tr>
 </table>
 
