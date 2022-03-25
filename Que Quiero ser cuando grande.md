@@ -1,0 +1,26 @@
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b>Que quiero ser cuando grande?</b></h1>
+<div align="center">
+    <img    src="https://www.uml.edu/Images/Chemical-Engineering-Male-Student-LabCoat-Baseball-Hat-Lab-Square-1400-opt_tcm18-234176.jpg?w=l"
+            title="Chemical Engineer"
+            width="30%"
+            height="30%" 
+            />
+</div>
+<h2 style align="center"><b>Chemical Engineer</b></h2>
+<h3 style align="center">
+ <b>When I grow up I want to be  Chemical Engineer. This is because Chemical engineers use knowledge of physics, chemistry and math all subjects that interest me and im good at.
+   It also has a nice salary that can afford for me to live. Chemical engineers solve problems that affect the use or production of chemicals, food, drugs and more. For now
+   I know that a good place for a chemical engineer to work is pfizer since my mom used to work there. 
+<br>
+</br>
+   <div align="center">
+    <img    src="https://getwallpapers.com/wallpaper/full/c/c/0/145217.jpg"
+            title="Programmer"
+            width="30%"
+            height="30%" 
+            />
+</div>
+  <h2 style align="center"><b>Computer Engineer, Civil Engineer or Programmer</b></h2>
+<h3 style align="center">
+ <b>If not chemical engineer then i would like being a computer engineer or progammer. This is because i like progremming and dealing with computers
+                         
