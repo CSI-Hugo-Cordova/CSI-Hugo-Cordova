@@ -8,9 +8,8 @@
 </div>
 <h2 style align="center"><b>Chemical Engineer</b></h2>
 <h3 style align="center">
- <b>When I grow up I want to be  Chemical Engineer. This is because Chemical engineers use knowledge of physics, chemistry and math all subjects that interest me and im good at.
-   It also has a nice salary that can afford for me to live. Chemical engineers solve problems that affect the use or production of chemicals, food, drugs and more. For now
-   I know that a good place for a chemical engineer to work is pfizer since my mom used to work there. 
+ <b>When I grow up I want to be  Chemical Engineer. This is because Chemical engineers use knowledge of physics, chemistry and math all subjects that interest me and im good at. It also has a nice salary  of 110,000 to 180,000 that can afford for me to live. Chemical engineers solve problems that affect the use or production of chemicals, food, drugs and more. For now I know that a good place for a chemical engineer to work is pfizer since my mom used to work there. 
+     </h3>
 <br>
 </br>
    <div align="center">
@@ -20,7 +19,18 @@
             height="30%" 
             />
 </div>
-  <h2 style align="center"><b>Computer Engineer, Civil Engineer or Programmer</b></h2>
+  <h2 style align="center"><b>Others: Computer Engineer, Civil Engineer or Programmer</b></h2>
 <h3 style align="center">
- <b>If not chemical engineer then i would like being a computer engineer or progammer. This is because i like progremming and dealing with computers
-                         
+ <b>If not chemical engineer then i would like being a civil engineer, computer engineer or progammer. This is because i like progremming and dealing with computers and like to desings arqutectual buildings or prototypes.
+     </h3>                    
+<br>
+</br>
+   <div align="center">
+    <img    src="https://getwallpapers.com/wallpaper/full/c/c/0/145217.jpg"
+            title="Programmer"
+            width="30%"
+            height="30%" 
+            />
+</div>
+
+
