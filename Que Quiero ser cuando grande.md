@@ -26,11 +26,20 @@
 <br>
 </br>
    <div align="center">
-    <img    src="https://getwallpapers.com/wallpaper/full/c/c/0/145217.jpg"
-            title="Programmer"
+    <img    src="https://ocmoneymanagers.com/wp-content/uploads/2019/09/stock-market-analysis.jpg"
+            title="Stocks"
             width="30%"
             height="30%" 
             />
 </div>
+  <h2 style align="center"><b>Side Jobs</b></h2>
+ <h3 style align="center">
+ <b> Apart from my job i will have some of my savings in stocks and i will probably take over my mom business IQRX specializedd in helping kids with problems in school
+     by giving the brain training and teaching them studying techniques however this can be used on anyone that justs want to better their abilities for example I have
+     done it twice and i would love to spread it around PR between this two other sidejobs i would be earning like 50,000 to 75,000 more each year.
+     </h3>                 
+    
+
+
 
 
