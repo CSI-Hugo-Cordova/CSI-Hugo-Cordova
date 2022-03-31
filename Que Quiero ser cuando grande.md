@@ -58,18 +58,18 @@
 </div>
   <h2 style align="center"><b>Education</b></h2>
 <h3 style align="center">
-<b> When i grow up i want to buy a house worth between 600,000-850,000 in Paseos and want an apartment in palmas worth oround 150,000-250,000, A nice electric car which I am hoping byy the time i grow that it drives itselve, A nice boat with a room worth around 200,000-300,000 for me to fish and go to Culebr y Vieques and if i own a boat i got to pay port, A nice golf cart worth like 5,000 to 10,000, Lastly solar panels worth like 100,000 so i can go without electric or gasoline bills. I am going to work 8-10 hours a day to earn 300,000 per year between all earnings.
+<b> When i grow up i want to buy a house worth between 600,000-850,000 in Paseos and want an apartment in palmas worth oround 150,000-250,000, A nice electric car which I am hoping byy the time i grow that it drives itselve that cost 30,000-50,000, A nice boat with a room worth around 200,000-300,000 for me to fish and go to Culebr y Vieques and if i own a boat i got to pay port, A nice golf cart worth like 5,000 to 10,000, Lastly solar panels worth like 75,000 so i can go without electric or gasoline bills. I am going to work 8-10 hours a day to earn 360,000 per year between all earnings.
     </h3> 
  <h2 align="center" >Table of Expenses</h2>
 
 <table align="center">
     <tr>
         <th>Earnings</th>
-        <td>300,000 a year</td>
+        <td>30,000 a month</td>
     </tr>
     <tr>
         <th>Furniture</th>
-        <td>70,000 for most life</td>
+        <td>150 monthly</td>
     </tr>
     <tr>
         <th>Water Bills</th>
@@ -97,11 +97,19 @@
     </tr>
     <tr>
         <th>Taxes</th>
-        <td>4,000</td>
+        <td>5,000</td>
     </tr>
     <tr>
         <th>Maintenance</th>
-        <td></td>
+        <td>1,000 monthly</td>
+    </tr>
+    <tr>
+        <th>Mortages</th>
+        <td>5,000</td>
+    </tr>
+    <tr>
+        <th>Savings</th>
+        <td>10,000-15,000</td>
     </tr>
 </table>
    
